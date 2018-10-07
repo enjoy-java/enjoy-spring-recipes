@@ -16,3 +16,10 @@
 |12월 09일| CHAPTER 15 스프링 인티그레이션, CHAPTER 16 스프링 텍스트 | |
 |12월 16일| CHAPTER 17 그레일즈| |
 [스터디 일정]
+
+## 연락처
+csj4032@gmail.com(최?조)
+kkd927@gmail.com (권?덕)
+nttejun@gmail.com (정?준)
+heowc1992@gmail.com (허?철)
+junhee0720@gmail.com (송?희) 
