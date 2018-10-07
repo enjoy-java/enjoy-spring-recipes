@@ -23,3 +23,4 @@
 * nttejun@gmail.com (정?준)
 * heowc1992@gmail.com (허?철)
 * junhee0720@gmail.com (송?희) 
+* geekseong@gmail.com (성?원)
