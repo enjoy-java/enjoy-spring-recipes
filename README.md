@@ -18,8 +18,8 @@
 [스터디 일정]
 
 ## 연락처
-csj4032@gmail.com(최?조)
-kkd927@gmail.com (권?덕)
-nttejun@gmail.com (정?준)
-heowc1992@gmail.com (허?철)
-junhee0720@gmail.com (송?희) 
+* csj4032@gmail.com(최?조)
+* kkd927@gmail.com (권?덕)
+* nttejun@gmail.com (정?준)
+* heowc1992@gmail.com (허?철)
+* junhee0720@gmail.com (송?희) 
