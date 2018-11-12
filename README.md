@@ -10,11 +10,11 @@
 |10월 28일| CHAPTER 3 스프링 MVC, CHAPTER 4 스프링 REST | | |
 |11월 04일| CHAPTER 5 스프링 MVC : 비동기 처리, CHAPTER 6 스프링 소셜 | | |
 |11월 11일| CHAPTER 7 스프링 시큐리티, CHAPTER 8 스프링 모바일 | | |
-|11월 18일| CHAPTER 9 데이터 엑세스, CHAPTER 10 스프링 트랜잭션 관리 | | 오프 |
+|11월 18일| CHAPTER 9 데이터 엑세스, CHAPTER 10 스프링 트랜잭션 관리 | |  |
 |11월 25일| CHAPTER 11 스프링 배치, CHAPTER 12 스프링  NoSQL | | |
 |12월 02일| CHAPTER 13 스프링 자바 엔터프라이저 서비스와 원격기술 , CHAPTER 14 스프링 메시징 | | |
-|12월 09일| CHAPTER 15 스프링 인티그레이션, CHAPTER 16 스프링 텍스트 | | 오프 |
-|12월 16일| CHAPTER 17 그레일즈| |
+|12월 09일| CHAPTER 15 스프링 인티그레이션, CHAPTER 16 스프링 텍스트 | |  |
+|12월 16일| CHAPTER 17 그레일즈| 오프 |
 [스터디 일정]
 
 ## 연락처
